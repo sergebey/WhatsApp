@@ -1,2 +1,2 @@
-# WhatsApp
+# CypherX
 WhatsApp bot
